@@ -1,0 +1,9 @@
+# Foundry base
+*.lock
+
+# Unneeded Foundry dbs
+drawings.db
+fog.db
+messages.db
+settings.db
+users.db
